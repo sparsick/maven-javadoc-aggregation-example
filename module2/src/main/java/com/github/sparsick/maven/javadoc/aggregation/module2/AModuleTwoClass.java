@@ -1,4 +1,4 @@
-package com.github.sparsick.maven.javadoc.aggregation;
+package com.github.sparsick.maven.javadoc.aggregation.module2;
 
 /**
  * foo javadoc

@@ -8,4 +8,11 @@
     </parent>
     <artifactId>module2</artifactId>
     <packaging>jar</packaging>
+    
+    <dependencies>
+        <dependency>
+            <groupId>com.github.sparsick.maven.javadoc.aggregation</groupId>
+            <artifactId>module1</artifactId>
+        </dependency>
+    </dependencies>
 </project>
